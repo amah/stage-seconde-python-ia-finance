@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+
+# Variables d'environnement
+.env
