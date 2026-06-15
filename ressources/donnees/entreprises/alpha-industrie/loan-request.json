@@ -1,0 +1,8 @@
+{
+  "requested_amount_eur": 250000,
+  "purpose": "Achat de nouvelles machines de production",
+  "duration_months": 48,
+  "has_business_plan": true,
+  "has_financial_statements": true,
+  "has_identity_documents": false
+}
